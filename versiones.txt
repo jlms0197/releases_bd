@@ -1,2 +1,3 @@
 "repositorio,rama,autor,version,path_scripts"
 https://github.com/JoseMen97/liquibase.git,feature/sql4.0,por16399,poc1.1,[scripts/4_PKG_TIENDAVIRTUAL_SEGURIDAD.bdy]
+https://github.com/JoseMen97/liquibase.git,feature/sql4.0,por16399,poc1.1,[scripts/4_PKG_TIENDAVIRTUAL_SEGURIDAD.bdy,scripts/2_PKG_TIENDAVIRTUAL_SEGURIDAD.bdy]
