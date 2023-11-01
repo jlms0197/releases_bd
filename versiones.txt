@@ -1,1 +1,1 @@
-"repositorio,autor,version,scripts"
+"repositorio,rama,autor,version,path_scripts"
