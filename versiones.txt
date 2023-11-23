@@ -1,1 +1,2 @@
 "repositorio,rama,autor,version,path_scripts"
+https://github.com/JoseMen97/liquibase.git#develop#por16399#v1#scripts/pdbamin/tab/aud_cta_cuenta_movimiento.tab
