@@ -3,3 +3,4 @@ https://github.com/JoseMen97/liquibase.git#develop#por16399#v1#scripts/pdbamin/t
 https://github.com/JoseMen97/liquibase.git#develop#por16399#v1.1#scripts/pdbamin/alter/alter_pdbadmin_AUD_CTA_CUENTA_MOVIMIENTO.sql
 https://github.com/JoseMen97/liquibase.git#develop#por16399#v1.2#scripts/pdbamin/alter/alter_pdbadmin_AUD_CTA_CUENTA_MOVIMIENTO.sql
 https://github.com/JoseMen97/liquibase.git#develop#por16399#v1.3#scripts/pdbamin/tab/transacional_total.tab
+https://github.com/JoseMen97/liquibase.git#develop#por16399#v1.5#scripts/pdbamin/tab/transacional_total.tab
