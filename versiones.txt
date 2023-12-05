@@ -5,3 +5,4 @@ https://github.com/JoseMen97/liquibase.git#develop#por16399#v1.2#scripts/pdbamin
 https://github.com/JoseMen97/liquibase.git#develop#por16399#v1.3#scripts/pdbamin/tab/transacional_total.tab
 https://github.com/JoseMen97/liquibase.git#develop#por16399#v1.5#scripts/pdbamin/tab/transacional_total.tab
 https://github.com/JoseMen97/liquibase.git#develop#por16399#v7#scripts/pdbamin/tab/transacional_total.tab
+https://github.com/JoseMen97/liquibase.git#develop#por16399#v6#scripts/pdbamin/plsql/1_PKG_TIENDAVIRTUAL_SEGURIDAD.spc
